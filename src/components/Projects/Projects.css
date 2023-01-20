@@ -1,0 +1,42 @@
+.project__section {
+  padding: 100px 0;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.heading {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+.view-button {
+  background-color: transparent;
+  border: none;
+  font-weight: 600;
+  font-size: 0.8em;
+}
+
+.project-gallery {
+  display: flex;
+  gap: 20px;
+}
+
+.image1 {
+  width: 65%;
+  height: 20%;
+}
+
+.side-gallery {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.image2 {
+  width: 100%;
+
+}
