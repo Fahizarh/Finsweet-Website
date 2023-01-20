@@ -1,4 +1,4 @@
-const faqs = [
+export const Data = [
     {
       id: "01",
       title: "How much time does it take?",

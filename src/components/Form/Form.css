@@ -1,0 +1,11 @@
+.form-content {
+   display: flex;
+}
+
+.left-form-content {
+    width: 60%;
+    background: url('../../images/form/form-bg.png'), rgba(28, 30, 83, 0.5);;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 96px;
+}

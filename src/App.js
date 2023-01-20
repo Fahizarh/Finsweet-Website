@@ -6,6 +6,7 @@ import Projects from "./components/Projects/Projects";
 import Features from "./components/Features/Features";
 import Testimonials from "./components/Testimonials/Testimonials";
 import Accordion from "./components/FAQ/Accordion";
+import Form from "./components/Form/Form";
 
 const App = (props) => {
   return (
@@ -17,6 +18,7 @@ const App = (props) => {
         <Features/>
         <Testimonials/>
         <Accordion/>
+        <Form/>
         <Routes>
           <Route></Route>
         </Routes>
